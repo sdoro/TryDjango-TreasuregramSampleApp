@@ -25,3 +25,9 @@ To build this app in the course we cover: (1) Getting started and creating our f
     source $HOME/.env/bin/activate
     pip install -r requirements.txt
 
+### test with browser
+
+    cd Treasuregram/
+    ./manage.py runserver $IP:$PORT
+    # goto https://trydjango-treasuregramsampleapp-sdoro.c9users.io/
+
