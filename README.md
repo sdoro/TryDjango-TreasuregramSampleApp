@@ -31,3 +31,7 @@ To build this app in the course we cover: (1) Getting started and creating our f
     ./manage.py runserver $IP:$PORT
     # goto https://trydjango-treasuregramsampleapp-sdoro.c9users.io/
 
+### upgrade to Django 1.10.5
+
+    # edit requirements.txt
+    # edit Treasuregram/settings.py
